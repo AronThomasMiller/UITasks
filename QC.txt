@@ -1,0 +1,26 @@
+1.Button dont have to be grey. 
+2."Send" must be from capital letter.
+3.You can't anything to write,because it is disabled. 
+4.After second press.
+5.There should be 2 RaddioButtons.
+6. 2 radiobuttons : one for "no thanks", second for other checkboxes.
+7.There should be 2 buttons for Accept and Discard.
+8.RaddioButtonPortrait.Cheked = true(Default),then RaddioButtonLandscape.Cheked=false.
+9.There should be one CheckBox, with text "Don't show this again".
+10.This checkBox should be in column.
+11.Current there are 3 statuses:default,yes/no.
+12.Use progressbar instead of checkbox.
+13.No,because there should be button.
+14.No.
+15.No.
+16.Reduce CheckBoxes and bind them to "Custom" RadioButton.
+17.We can use DropDown.
+18.Delete words "align","Alignment".
+19.We can use DropDown or leave it.
+20. TextBoxes and DropDownLists should be disabled until RadioButton is not cheked.
+21.In ComboBox we can write or check value from it.
+From DropDown we can only choose value .
+From ListBox we can only choose via scrolling.
+A combo box consists of two parts: an edit box and a static text box combined with a list box.
+22.Using Shift.
+23.We need to press Alt and Down Arrow and then filter will open. In filter - write number three and select all suggested.
